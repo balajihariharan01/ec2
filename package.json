@@ -1,3 +1,8 @@
-"scripts": {
-  "start": "node app.js"
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
 }
